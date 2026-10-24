@@ -7,6 +7,6 @@ Backend engineer and architect with 30+ years building software products and 14+
 - **Languages:** Java, Python, Node.js, TypeScript, SQL
 - **How I work now:** Claude Code for most implementation, with Claude and OpenAI Codex reviewing each other's work.
 
-Most of my professional code lives in private company repositories. The projects here are small examples of how I build.
+My professional work lives in private company repositories.
 
 📫 [LinkedIn](https://www.linkedin.com/in/chrisnigbur) · chris.nigbur@gmail.com
